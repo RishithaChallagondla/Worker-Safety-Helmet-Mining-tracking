@@ -34,7 +34,6 @@ An Iot-based Smart helmet for real-time worker safety and location tracking in m
 
 > Detailed circuit diagram is available in the /images/ folder.
 
-Example:
 - MQ-135: DO → D34, VCC → 3V3, GND → GND  
 - DHT11: DAT → D4, VCC → 3V3, GND → GND  
 - LCD (I2C): SDA → D21, SCL → D22  
