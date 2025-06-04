@@ -2,7 +2,7 @@
 
 An Iot-based Smart helmet for real-time worker safety and location tracking in mining environments. This project uses an ESP32, various sensors, and Blynk to monitor dangerous conditions like gas leaks, temperature, and metal hazards — and sends alerts instantly.
 
-## 📦 Components Used
+##  Components Used
 
 - ESP32 Development Board
 - MQ-135 Gas Sensor – detects harmful gases
@@ -15,11 +15,11 @@ An Iot-based Smart helmet for real-time worker safety and location tracking in m
 
 ##  Features
 
-- 🔔 Sends alerts on detecting toxic gas(concentration range exceeds) or high temperature
-- 📍 Tracks worker’s GPS location in real-time
-- 🧠 Detects presence of underground metals
-- 📲 Smartphone alert via Blynk IoT
-- 🧠 Displays live values on LCD
+-  Sends alerts on detecting toxic gas(concentration range exceeds) or high temperature
+-  Tracks worker’s GPS location in real-time
+-  Detects presence of underground metals
+-  Smartphone alert via Blynk IoT
+-  Displays live values on LCD
 
 ##  How It Works
 
